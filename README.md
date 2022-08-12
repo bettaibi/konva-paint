@@ -1,2 +1,3 @@
 # konva-paint
-A canvas demo app using react konva 
+
+A canvas demo app using react konva
