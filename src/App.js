@@ -1,8 +1,15 @@
+import React from "react";
+import { ToastContainer } from 'react-toastify';
+import Paint from "./container/Paint";
+
 function App() {
+
   return (
-    <div className="App">
-      Happy Hacking!
-    </div>
+    <React.Fragment>
+      <Paint />
+
+      <ToastContainer />
+    </React.Fragment>
   );
 }
 
